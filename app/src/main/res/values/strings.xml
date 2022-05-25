@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bookxholix</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Menu</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="action_sort">Action Sort</string>
+    <string name="log_in">Submit</string>
+    <string name="sample_text">This is demo description</string>
+    <string name="book_about_description">In this cut throat competition, Android app development is one of those fields that is experiencing great demand in everywhere. It has gained a lot of scope in the top-notch industries. Therefore, being a Computer Science student, it becomes quite necessary to learn such android technologies in order to increase one’s career prospects. For this, it is important to have practical knowledge of languages and build projects that can be utilized and worked upon in future and among such projects is “Bookxholic”.</string>
+</resources>
